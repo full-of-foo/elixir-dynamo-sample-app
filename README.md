@@ -1,5 +1,3 @@
-# Library
-
 This is a project built with Elixir that uses Dynamo to serve web requests.
 
 Resources:
